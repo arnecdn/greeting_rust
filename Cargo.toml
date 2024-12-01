@@ -23,7 +23,7 @@ uuid = { version = "1.10.0", features = ["v7"]}
 #env_logger = "0.10.0"
 rdkafka = { version = "0.36.2", features = ["cmake-build"] }
 futures = "0.3"
-async-trait = "0.1.77"
+async-trait = "0.1.83"
 log = { version = "0.4.20", features = [] }
 serde_with = "3.6.1"
 config = "0.14.0"
