@@ -19,7 +19,7 @@ derive_more = { version = "2.0.1", features = ["full"]}
 uuid = { version = "1.16.0", features = ["v7"]}
 rdkafka = { version = "0.37.0" }
 futures = "0.3"
-async-trait = "0.1.77"
+async-trait = "0.1.83"
 log = { version = "0.4.20", features = [] }
 config = "0.14.0"
 dotenv = "0.15.0"
